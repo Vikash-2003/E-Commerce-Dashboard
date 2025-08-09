@@ -55,6 +55,7 @@ This project applies RFM (Recency, Frequency, Monetary) Analysis to segment cust
 
 ## Final Conclusion
 Implementing RFM-based segmentation in e-commerce provides data-driven insights for targeted marketing. By focusing on high-value customers and strategically re-engaging at-risk or dormant customers, businesses can maximize revenue, improve retention, and optimize marketing spend. This approach not only boosts customer lifetime value but also aligns business resources with the most impactful customer groups.
-
+## Screen shots
+https://github.com/Vikash-2003/E-Commerce-Dashboard/blob/main/E-Commerce%20Report.png
 
 
